@@ -215,6 +215,6 @@ flask db upgrade
 ## 👨‍💻 Author
 
 **Abdul Bari M**
-GitHub: [bari8333](https://github.com/bari8333)
+GitHub: [abdul-bari-m](https://github.com/abdul-bari-m)   
 
 ---
